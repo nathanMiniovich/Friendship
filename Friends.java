@@ -1,4 +1,3 @@
-//Jonathan Risinger and Nathan Miniovich
 package friends;
 import friends.GraphMethods;
 
