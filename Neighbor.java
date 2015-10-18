@@ -1,7 +1,7 @@
 package friends;
 
 //The neighbor class that defines vertex connections on the graph.
-//For this assignment the vertex connections are friendships.
+//The vertex connections are friendships.
 public class Neighbor {
 	public int vertexNumber;
 	public Neighbor next;
